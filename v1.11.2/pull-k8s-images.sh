@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 docker pull panxiaoan/kube-apiserver-amd64:v1.11.2
 docker pull panxiaoan/kube-controller-manager-amd64:v1.11.2
