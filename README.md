@@ -1,1 +1,1 @@
-# Kubernetes v1.10.0 Docker Images
+# Kubernetes v1.10.7 Docker Images
